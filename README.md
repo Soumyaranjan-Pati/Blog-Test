@@ -1,6 +1,6 @@
 # Blog-Test
 
-Here I created a Blog_Test project, which is developed on PHP, Laravel 9. Here I developed this project related to my assigned task, Here I covered all points except recapcha. I already tried with local, but getting issue that's why i removed. Other than that all points covered like- mail send, DB tranjaction, relation, Event, Listener, Jobs & Queue etc.
+Here I created a Blog_Test project, which is developed on PHP, Laravel 9. Here I developed this project related to my assigned task, Here I covered all points except recapcha. I already tried with local, but getting issue that's why i removed. Other than that all points covered like- mail send, DB tranjaction, relation, Event, Listener, Jobs & Queue etc. Also runed on http://laravel-test.local/ vertual host
 
 #Project Setup:
 1. Create a DB named as "lara_blog_test"
